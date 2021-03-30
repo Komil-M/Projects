@@ -1,16 +1,7 @@
 # Projects
 Here are my projects and my small codes that I do through my days.
 
-
-
-
-
-
-
-
-
-
-
+The reason I don't add my projects is because I work on them on my computer and keep them on my PC till I finish, none finished work isn't comming out anytime soon haha, anyways I'll be releasing projects in batches, if I finish 5 or more codes I shall put them all together, till then we shall wait.
 
 
 
